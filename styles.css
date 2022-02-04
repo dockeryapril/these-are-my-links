@@ -6,8 +6,9 @@ body {
     letter-spacing: 2px;
     }
 
-.img {
+img {
     border-radius: 50%;
+    align-content: center;
     }
 
 .profile-picture {
