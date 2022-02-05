@@ -57,6 +57,15 @@ a:hover {
 
 .center {
     align-content: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
 }    
     
     
