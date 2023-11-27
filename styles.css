@@ -88,6 +88,10 @@ a:hover {
 }   
 
 .socials {
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     outline: none;
 }
 
