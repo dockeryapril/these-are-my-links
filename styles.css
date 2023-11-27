@@ -88,6 +88,7 @@ a:hover {
 }   
 
 .socials {
+    align-content: center;
     /* Set the desired width and height for the TikTok icon */
     width: 40px; /* Adjust the value according to your preference */
     height: 40px; /* Adjust the value according to your preference */
