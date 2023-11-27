@@ -89,14 +89,12 @@ a:hover {
 
 .socials {
     align-content: center;
-    /* Set the desired width and height for the TikTok icon */
-    width: 40px; /* Adjust the value according to your preference */
-    height: 40px; /* Adjust the value according to your preference */
-    /* Remove the hover effect by setting the outline to none */
+    width: 40px;
+    height: 40px; 
     outline: none;
 }
 
-/* Optionally, you can remove the hover effect by targeting the anchor tag specifically */
+
 .socials:hover {
-    background-color: transparent; /* Set the background color to transparent on hover */
+    background-color: transparent; 
 }
